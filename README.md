@@ -9,7 +9,7 @@ mvn clean source:jar install -DskipTests=true
 ### dependency
 
      <dependency>
-        <groupId>com.hortonworks</groupId>
-        <artifactId>spark-schema-registry</artifactId>
-        <version>0.1-SNAPSHOT</version>
+        <groupId>org.michael.common</groupId>
+        <artifactId>common</artifactId>
+        <version>1.0.0</version>
      </dependency>
